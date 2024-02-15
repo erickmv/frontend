@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.headersort{
+  background-color:#2E4053;
+}
+.headersort label{
+  color: white;
+  font-weight: 500;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
